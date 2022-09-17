@@ -1,5 +1,7 @@
 # Astro Starter Kit: Blog
 
+### This site can be accessed at [sky-kryst.github.io](https://sky-kryst.github.io).
+
 ```
 npm create astro@latest -- --template blog
 ```
